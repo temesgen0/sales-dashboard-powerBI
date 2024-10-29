@@ -29,6 +29,9 @@ Salesperson and Team Performance:
 Tracks individual and team performance against targets, helping to recognize top performers.
 KPIs related to sales volume, revenue, and closed deals for each team member.
 
-📧 temesgenazezew@gmail.com
-📲 [Telegram:](@tadeseb)
-[Power BI](https://app.powerbi.com/groups/me/reports/f8b2fb83-74bb-4086-8d60-e42c3f8b54b1/d4830f5147e4cb47bdce?experience=power-bi)
+📧 temesgenazezew@gmail.com  
+
+📲 [Telegram:](@tadeseb)  
+
+[Power BI](https://app.powerbi.com/groups/me/reports/f8b2fb83-74bb-4086-8d60-e42c3f8b54b1/d4830f5147e4cb47bdce?experience=power-bi)  
+
